@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fRPD48mv5Fw=",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ferdi.kurnaz\\projects\\OpenBuffet.KeyArmor\\src\\Adapters\\Driven\\KeyArmor.WebApi\\KeyArmor.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferdi.kurnaz\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\ferdi.kurnaz\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

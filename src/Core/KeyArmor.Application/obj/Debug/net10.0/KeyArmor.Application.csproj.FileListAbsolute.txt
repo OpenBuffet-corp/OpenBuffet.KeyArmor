@@ -1,0 +1,11 @@
+D:\Users\ferdi.kurnaz\projects\OpenBuffet.KeyArmor\src\Core\KeyArmor.Application\bin\Debug\net10.0\KeyArmor.Application.deps.json
+D:\Users\ferdi.kurnaz\projects\OpenBuffet.KeyArmor\src\Core\KeyArmor.Application\bin\Debug\net10.0\KeyArmor.Application.dll
+D:\Users\ferdi.kurnaz\projects\OpenBuffet.KeyArmor\src\Core\KeyArmor.Application\bin\Debug\net10.0\KeyArmor.Application.pdb
+D:\Users\ferdi.kurnaz\projects\OpenBuffet.KeyArmor\src\Core\KeyArmor.Application\obj\Debug\net10.0\KeyArmor.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ferdi.kurnaz\projects\OpenBuffet.KeyArmor\src\Core\KeyArmor.Application\obj\Debug\net10.0\KeyArmor.Application.AssemblyInfoInputs.cache
+D:\Users\ferdi.kurnaz\projects\OpenBuffet.KeyArmor\src\Core\KeyArmor.Application\obj\Debug\net10.0\KeyArmor.Application.AssemblyInfo.cs
+D:\Users\ferdi.kurnaz\projects\OpenBuffet.KeyArmor\src\Core\KeyArmor.Application\obj\Debug\net10.0\KeyArmor.Application.csproj.CoreCompileInputs.cache
+D:\Users\ferdi.kurnaz\projects\OpenBuffet.KeyArmor\src\Core\KeyArmor.Application\obj\Debug\net10.0\KeyArmor.Application.dll
+D:\Users\ferdi.kurnaz\projects\OpenBuffet.KeyArmor\src\Core\KeyArmor.Application\obj\Debug\net10.0\refint\KeyArmor.Application.dll
+D:\Users\ferdi.kurnaz\projects\OpenBuffet.KeyArmor\src\Core\KeyArmor.Application\obj\Debug\net10.0\KeyArmor.Application.pdb
+D:\Users\ferdi.kurnaz\projects\OpenBuffet.KeyArmor\src\Core\KeyArmor.Application\obj\Debug\net10.0\ref\KeyArmor.Application.dll
